@@ -11,7 +11,13 @@ I hosted a static website on Amazon S3. This includes:
 ## Live Demo
 🔗 [Link to Live Site](http://bucket-lacerda-github.s3-website.us-east-2.amazonaws.com)
 
+## Preview
+![Screenshot of Hosted Site](screenshots/website-preview.png)
+
 ## Skills Practiced
 - S3 bucket management
 - Website hosting with AWS
 - IAM permissions for S3 access
+
+- 🌐 [AWS S3 Website Hosting](https://github.com/Lacerdaa/s3-static-site) – Live static website hosted on Amazon S3
+
