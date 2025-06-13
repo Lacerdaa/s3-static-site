@@ -9,7 +9,7 @@ I hosted a static website on Amazon S3. This includes:
 - Enabling static website hosting
 
 ## Live Demo
-🔗 [Link to Live Site](http://http://bucket-lacerda-github.s3-website.us-east-2.amazonaws.com)
+🔗 [Link to Live Site](http://bucket-lacerda-github.s3-website.us-east-2.amazonaws.com)
 
 ## Skills Practiced
 - S3 bucket management
