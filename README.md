@@ -11,8 +11,19 @@ I hosted a static website on Amazon S3. This includes:
 ## Live Demo
 🔗 [Link to Live Site](http://bucket-lacerda-github.s3-website.us-east-2.amazonaws.com)
 
-## Preview
-![Screenshot of Hosted Site](screenshots/website-preview.png)
+## Live Preview
+![Live Website](screenshots/live-site.png)
+
+## Configuration Screenshots
+
+| Bucket Overview | Static Hosting Settings |
+|------------------|-------------------------|
+| ![](screenshots/s3-overview.png) | ![](screenshots/hosting-settings.png) |
+
+| Bucket Policy | Files Uploaded |
+|----------------|----------------|
+| ![](screenshots/bucket-policys.png) | ![](screenshots/files-upload.png) |
+
 
 ## Skills Practiced
 - S3 bucket management
