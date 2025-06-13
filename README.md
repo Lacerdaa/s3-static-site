@@ -7,10 +7,9 @@ I hosted a static website on Amazon S3. This includes:
 - Setting permissions for public access
 - Uploading HTML and CSS files
 - Enabling static website hosting
-- (Optional) Connecting a domain via Route 53
 
 ## Live Demo
-🔗 [Link to Live Site](http://YOUR-S3-WEBSITE-URL)
+🔗 [Link to Live Site](http://http://bucket-lacerda-github.s3-website.us-east-2.amazonaws.com)
 
 ## Skills Practiced
 - S3 bucket management
